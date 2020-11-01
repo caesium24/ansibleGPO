@@ -1,2 +1,2 @@
 # ansibleGPO
-Collection of Ansible Group Policies
+Collection of Ansible Group Policy Object modules
